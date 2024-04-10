@@ -28,12 +28,15 @@ The notebooks are located in the [models folder](models).
 ## **Generated Examples**
 
 <div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: space-between; max-width: 900px;">
-        <img src="images/fashion_mnist_dcgan/fashion_mnist_dcgan.gif" style="width: 280px;">
-        <img src="images/mnist_dcgan/mnist_dcgan.gif" style="width: 280px;">
-        <img src="images/sign_language_dcgan/sign_language_dcgan.gif" style="width: 280px;">
+    <div style="display: flex; justify-content: center; max-width: 1200px;">
+        <img src="images/fashion_mnist_dcgan/fashion_mnist_dcgan.gif" style="width: 400px; margin-left: -100px;">
+        <img src="images/mnist_dcgan/mnist_dcgan.gif" style="width: 400px; margin-left: -100px;">
+        <img src="images/sign_language_dcgan/sign_language_dcgan.gif" style="width: 400px; margin-left: -100px;">
     </div>
 </div>
+
+
+
 
 *You can observe how generation improves as epochs progress.*
 
