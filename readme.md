@@ -29,9 +29,9 @@ The notebooks are located in the [models folder](models).
 
 <div style="display: flex; justify-content: center;">
     <div style="display: flex; justify-content: space-between; max-width: 900px;">
-        <img src="images/fashion_mnist_dcgan/fashion_mnist_dcgan.gif" style="width: 300px;">
-        <img src="images/mnist_dcgan/mnist_dcgan.gif" style="width: 300px;">
-        <img src="images/sign_language_dcgan/sign_language_dcgan.gif" style="width: 300px;">
+        <img src="images/fashion_mnist_dcgan/fashion_mnist_dcgan.gif" style="width: 280px;">
+        <img src="images/mnist_dcgan/mnist_dcgan.gif" style="width: 280px;">
+        <img src="images/sign_language_dcgan/sign_language_dcgan.gif" style="width: 280px;">
     </div>
 </div>
 
