@@ -14,6 +14,8 @@ This repository is dedicated to the implementation of [Deep Convolutional Genera
 
 ## **Used Datasets**
 
+- **Anime Faces**: Dataset containing 63,565 color images of [anime faces by MckInsey666](https://github.com/bchao1/Anime-Face-Dataset).
+
 - **Fashion-MNIST**: This dataset consists of 70,000 grayscale images representing clothing items, distributed across 10 different categories.
 
 - **MNIST**: This dataset consists of 70,000 grayscale images of handwritten digits ranging from 0 to 9.
@@ -23,20 +25,21 @@ This repository is dedicated to the implementation of [Deep Convolutional Genera
 ## **Implementations in TensorFlow and PyTorch**
 Implementations have been done in both TensorFlow and PyTorch, the two most widely used frameworks in Deep Learning, to explore the capabilities of DCGANs. Each implementation provides insights into the differences and similarities between these frameworks, offering practical perspectives for professionals in the field.
 
-The notebooks are located in the [models folder](models).
-
 ## **Generated Examples**
 
 <div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1200px;">
+    <div style="display: flex; justify-content: center; max-width: 800px;">
+        <img src="images/anime_faces_dcgan/anime_faces_dcgan.gif" style="width: 400px; margin-left: -100px;">
         <img src="images/fashion_mnist_dcgan/fashion_mnist_dcgan.gif" style="width: 400px; margin-left: -100px;">
+    </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center; max-width: 800px;">
         <img src="images/mnist_dcgan/mnist_dcgan.gif" style="width: 400px; margin-left: -100px;">
         <img src="images/sign_language_dcgan/sign_language_dcgan.gif" style="width: 400px; margin-left: -100px;">
     </div>
 </div>
-
-
-
 
 *You can observe how generation improves as epochs progress.*
 
